@@ -14,7 +14,7 @@ En este laboratorio estudiaremos el proyecto de hardware (vivado) y software (vi
 * Contenidos de la [Ayudantia 09](https://youtu.be/3dn__gzqBcg)
 * [Lectura10-11](https://github.com/IEE2463-SEP/Lecturas) IEE2463. Contenidos de protocolos de comunicacion CAN. Hardware de tarjeta de extensión, tarjeta booster y funcionamiento de un ADC.
   
-4.- [Actividad Práctica]() desarrollada en el del Laboratorio 
+4.- [Actividad Práctica](https://github.com/IEE2463-SEP/LAB10-Peripherals-with-Zybo-and-Booster/blob/main/LAB10_Perifericos.pptx) desarrollada en el del Laboratorio 
 
 5.- Toda la documentación de hojas de datos de los elementos estudidados en este laboratorio se encuentran en el repositorio (9 documentos): [Documentacion](https://github.com/IEE2463-SEP/Documentacion)
 
